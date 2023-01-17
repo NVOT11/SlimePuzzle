@@ -1,0 +1,72 @@
+{
+    "DialogTexts": [
+        {
+            "ID": "Tutorial_1",
+            "Text": "↑↓←→：移動"
+        },
+        {
+            "ID": "Tutorial_2",
+            "Text": "階段を使うのだ"
+        },
+        {
+            "ID": "Tutorial_3",
+            "Text": "ENTERキー：分裂"
+        },
+        {
+            "ID": "Tutorial_3_VP",
+            "Text": "Aボタン：分裂"
+        },
+        {
+            "ID": "Tutorial_4",
+            "Text": "CTRLキー：切替"
+        },
+        {
+            "ID": "Tutorial_4_VP",
+            "Text": "Bボタン：切替"
+        },
+        {
+            "ID": "Tutorial_5",
+            "Text": "分裂と切替を使うのだ"
+        },
+        {
+            "ID": "Tutorial_6",
+            "Text": "分裂は3体まで"
+        },
+        {
+            "ID": "Tutorial_7",
+            "Text": "赤は火に強いぞ"
+        },
+        {
+            "ID": "Tutorial_8",
+            "Text": "青は水に強いぞ"
+        },
+        {
+            "ID": "Tutorial_E",
+            "Text": "R：やり直し E：脱出"
+        },
+        {
+            "ID": "Tutorial_E_VP",
+            "Text": "RESET：やり直し EXIT：脱出"
+        },
+        {
+            "ID": "Opening_1",
+            "Text": "誰かが呼んでいる……"
+        },
+        {
+            "ID": "Opening_2",
+            "Text": "帰らねば……"
+        },
+        {
+            "ID": "FoundGoal",
+            "Text": "階段を見つけた！"
+        },
+        {
+            "ID": "BackHome",
+            "Text": "おかえりなさい"
+        },
+        {
+            "ID": "END",
+            "Text": "END"
+        }
+    ]
+}

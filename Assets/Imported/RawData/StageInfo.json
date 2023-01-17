@@ -1,0 +1,48 @@
+{
+    "StageInfos": [
+        {
+            "Rank": "1",
+            "Name": "B1F"
+        },
+        {
+            "Rank": "2",
+            "Name": "B2F"
+        },
+        {
+            "Rank": "3",
+            "Name": "B3F"
+        },
+        {
+            "Rank": "4",
+            "Name": "B4F"
+        },
+        {
+            "Rank": "5",
+            "Name": "B5F"
+        },
+        {
+            "Rank": "6",
+            "Name": "B6F"
+        },
+        {
+            "Rank": "7",
+            "Name": "B7F"
+        },
+        {
+            "Rank": "8",
+            "Name": "B8F"
+        },
+        {
+            "Rank": "9",
+            "Name": "B9F"
+        },
+        {
+            "Rank": "10",
+            "Name": "B10F"
+        },
+        {
+            "Rank": "11",
+            "Name": "B11F"
+        }
+    ]
+}
